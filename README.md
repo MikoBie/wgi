@@ -10,7 +10,8 @@ Users who want to use the tutorial online in `Google Colab` should follow these 
 2. Press GitHub in the popup window or press File and Open notebook.
 3. Type `MikoBie` in the search box (compare the picture below).
 ![github](png/github.png)
-4. Choose a relevant notebook and click Open Notebook.
+4. Pick the relevant repository: `wgi`.
+4. Choose the relevant notebook and click Open Notebook.
 
 That is it, an interactive notebook should open.
 
